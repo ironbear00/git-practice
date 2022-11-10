@@ -1,12 +1,5 @@
 team: Leopards
 
-<<<<<<< HEAD
-manager: Lulu
-
-members:
-- James
-- Stella
-=======
 manager: Luke
 
 coach: Nicholas
@@ -15,5 +8,4 @@ members:
 - Linda
 - William
 - David
->>>>>>> add-coach
 - Olivia
