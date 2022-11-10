@@ -1,8 +1,19 @@
 team: Leopards
 
+<<<<<<< HEAD
 manager: Lulu
 
 members:
 - James
 - Stella
+=======
+manager: Luke
+
+coach: Oscar
+
+members:
+- Linda
+- William
+- David
+>>>>>>> add-coach
 - Olivia
